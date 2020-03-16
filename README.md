@@ -3,7 +3,7 @@ A short python code to fix a issue that could cause brightness loss in gradient 
 
 ![image](https://raw.githubusercontent.com/zznewclear13/Gradient_Colorizing_Fix/master/example.jpg)
 
-## How to acheive same effect in Photoshop
+## How to achieve same effect in Photoshop
 
 Sadly I do not think there is a simple way to achieve that in Photoshop. But the following steps could achieve a similar result:
 
